@@ -75,12 +75,6 @@ Por isso, foram adotadas as seguintes decisões:
 
 
 
-##  Ferramentas Utilizadas
-
-* Miro (para criação do protótipo)
-* GitHub (para versionamento e entrega)
-
-
 
 ##  Funcionalidades Principais
 
